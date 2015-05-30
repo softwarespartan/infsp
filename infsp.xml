@@ -1,0 +1,9 @@
+<infsp>
+
+    <disk>/infSP/disk1</disk>
+    <disk>/infSP/disk2</disk>
+    <disk>/infSP/disk3</disk>
+    <maxXfer>2</maxXfer>
+    <journalPath>/infSP/infsp.journal</journalPath>
+
+</infsp>
